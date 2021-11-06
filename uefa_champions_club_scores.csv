@@ -1,0 +1,429 @@
+﻿Pos;Club;País;15/16;16/17;17/18;18/19;19/20; Pts ; Fed 
+1 ;FC Bayern München;GER;22;29;20;36;27;134;14,714
+2 ;Real Madrid CF;ESP;33;32;19;17;26;127;19,571
+3 ;Manchester City FC;ENG;18;22;25;25;35;125;20,113
+4 ;FC Barcelona;ESP;23;25;30;24;20;122;19,571
+5 ;Juventus;ITA;33;23;21;22;21;120;15,087
+6 ;Club Atlético de Madrid;ESP;29;28;20;22;16;115;19,571
+7 ;Manchester United;ENG;26;20;19;22;26;113;20,113
+8 ;Paris Saint-Germain;FRA;20;19;19;31;24;113;11,216
+9 ;Liverpool FC;ENG;-;30;29;18;24;101;20,113
+10 ;Arsenal FC;ENG;19;21;26;10;23;99;20,113
+11 ;Chelsea FC;ENG;-;18;30;17;33;98;20,113
+12 ;Sevilla FC;ESP;19;21;13;26;19;98;19,571
+13 ;AS Roma;ITA;13;25;17;11;24;90;15,087
+14 ;Borussia Dortmund;GER;22;10;18;18;22;90;14,714
+15 ;Tottenham Hotspur;ENG;10;21;26;16;15;88;20,113
+16 ;FC Porto;POR;17;17;23;7;23;87;9,709
+17 ;AFC Ajax;NED;22;1,5;27;13;19;82,5;7,84
+18 ;FC Shakhtar Donetsk;UKR;14;19;10;22;14;79;6,62
+19 ;Olympique Lyonnais;FRA;22;14;17;23;-;76;11,216
+20 ;SSC Napoli;ITA;17;10;18;19;10;74;15,087
+21 ;RB Leipzig;GER;-;17;5;27;17;66;14,714
+22 ;Villarreal CF;ESP;9;8;16;-;30;63;19,571
+23 ;FC Salzburg;AUT;5;21;16;10;7;59;7,165
+24 ;SL Benfica;POR;17;4;17;10;10;58;9,709
+25 ;Bayer 04 Leverkusen;GER;18;-;11;18;10;57;14,714
+26 ;FC Internazionale Milano;ITA;4;-;15;25;9;53;15,087
+27 ;Atalanta BC;ITA;-;11;2,5;20;17;50,5;15,087
+28 ;FC Zenit;RUS;12;14;10;9;5;50;7,676
+29 ;FC Basel 1893;SUI;6;19;2,5;19;2,5;49;5,245
+30 ;Beşiktaş JK;TUR;20;19;5;3;2;49;6,02
+31 ;FC Dynamo Kyiv;UKR;8;12;11;6;10;47;6,62
+32 ;Sporting Clube de Portugal;POR;6;17;10;10;2,5;45,5;9,709
+33 ;GNK Dinamo Zagreb;CRO;4;1,5;14;8;17;44,5;5,255
+34 ;SS Lazio;ITA;-;17;6;4;17;44;15,087
+35 ;SK Slavia Praha;CZE;1,5;6;14;6;16;43,5;5,32
+36 ;F.C. Copenhagen;DEN;16;7;4;14;2,5;43,5;5,575
+37 ;Olympiacos FC;GRE;10;5;8;10;10;43;5,2
+38 ;PFC CSKA Moskva;RUS;7;17;9;4;3;40;7,676
+39 ;Valencia CF;ESP;-;-;23;17;-;40;19,571
+40 ;AS Monaco FC;FRA;25;6;5;-;-;36;11,216
+41 ;Club Brugge;BEL;4;1,5;11;8;11;35,5;7,3
+42 ;BSC Young Boys;SUI;6;5;7;6;11;35;5,245
+43 ;SC Braga;POR;5;9;2;10;9;35;9,709
+44 ;FC Schalke 04;GER;18;-;17;-;-;35;14,714
+45 ;FC Krasnodar;RUS;8;1,5;11;6;8;34,5;7,676
+46 ;Celtic FC;SCO;7;8;6;10;3;34;6,675
+47 ;FC Viktoria Plzeň;CZE;5;13;11;2;2,5;33,5;5,32
+48 ;VfL Borussia Mönchengladbach;GER;12;-;-;6;15;33;14,714
+49 ;Eintracht Frankfurt;GER;-;-;24;9;-;33;14,714
+50 ;FK Crvena zvezda;SRB;1,5;8;7;6;10;32,5;5,35
+51 ;Leicester City FC;ENG;22;-;-;-;10;32;20,113
+52 ;Rangers FC;SCO;-;0,25;5;11;15;31,25;6,675
+53 ;AC Milan;ITA;-;12;7;-;12;31;15,087
+54 ;FC Lokomotiv Moskva;RUS;-;12;6;6;7;31;7,676
+55 ;KRC Genk;BEL;16;-;9;5;-;30;7,3
+56 ;PSV Eindhoven;NED;6;1;6;6;10;29;7,84
+57 ;Olympique de Marseille;FRA;-;19;3;-;6;28;11,216
+58 ;PFC Ludogorets 1945;BUL;8;7;4;6;3;28;4,075
+59 ;APOEL FC;CYP;10;6;2,5;7;2,5;28;5,55
+60 ;İstanbul Başakşehir;TUR;1,5;6;2;11;6;26,5;6,02
+61 ;KAA Gent;BEL;10;1;2,5;10;3;26,5;7,3
+62 ;RSC Anderlecht;BEL;16;6;3;-;-;25;7,3
+63 ;TSG 1899 Hoffenheim;GER;-;4;7;-;12;23;14,714
+64 ;FC Astana;KAZ;4;8;6;3;1,5;22,5;3,125
+65 ;R. Standard de Liège;BEL;6;-;7;6;3;22;7,3
+66 ;AZ Alkmaar;NED;6;-;1,5;8;6;21,5;7,84
+67 ;LASK;AUT;-;-;2;12;7;21;7,165
+68 ;Feyenoord;NED;5;6;2;4;4;21;7,84
+69 ;Qarabağ FK;AZE;5;6;3;4;3;21;3,375
+70 ;FCSB;ROU;5;9;2,5;2,5;2;21;3,64
+71 ;Maccabi Tel-Aviv FC;ISR;5;3;2,5;2;8;20,5;4,875
+72 ;Wolverhampton Wanderers FC;ENG;-;-;-;16;-;16;20,113
+73 ;Burnley FC;ENG;-;-;2,5;-;-;2,5;20,113
+74 ;Everton FC;ENG;-;3;-;-;-;3;20,113
+75 ;Southampton FC;ENG;6;-;-;-;-;6;20,113
+76 ;West Ham United FC;ENG;1,5;-;-;-;-;1,5;20,113
+77 ;PAOK FC;GRE;8;1,5;3;2,5;5;20;5,2
+78 ;Granada CF;ESP;-;-;-;-;13;13;19,571
+79 ;Real Sociedad de Fútbol;ESP;-;9;-;-;8;17;19,571
+80 ;Getafe CF;ESP;-;-;-;11;-;11;19,571
+81 ;RCD Espanyol;ESP;-;-;-;10;-;10;19,571
+82 ;Real Betis Balompié;ESP;-;-;10;-;-;10;19,571
+83 ;Athletic Club;ESP;9;10;-;-;-;19;19,571
+84 ;RC Celta de Vigo;ESP;19;-;-;-;-;19;19,571
+85 ;AEK Athens FC;GRE;1;9;4;2,5;3;19,5;5,2
+86 ;Fenerbahçe SK;TUR;10;1,5;8;-;-;19,5;6,02
+87 ;Stade Rennais FC;FRA;-;-;11;3;5;19;11,216
+88 ;Malmö FF;SWE;-;1;7;8;2,5;18,5;4,1
+89 ;FC Spartak Moskva;RUS;1;11;4;2,5;-;18,5;7,676
+90 ;FK Partizan;SRB;0,5;7;2,5;6;2;18;5,35
+91 ;Hapoel Beer-Sheva FC;ISR;6;3;2;2,5;4;17,5;4,875
+92 ;AC Sparta Praha;CZE;9;1;1,5;2;4;17,5;5,32
+93 ;FC BATE Borisov;BLR;1,5;4;8;2,5;1,5;17,5;3,05
+94 ;Molde FK;NOR;-;-;2,5;2,5;12;17;4,2
+95 ;SK Rapid Wien;AUT;5;-;7;-;5;17;7,165
+96 ;Galatasaray AŞ;TUR;-;0,5;8;6;2,5;17;6,02
+97 ;CFR 1907 Cluj;ROU;-;-;2,5;10;4;16,5;3,64
+98 ;Legia Warszawa;POL;8;1,5;2;2,5;2,5;16,5;3,025
+99 ;Torino FC;ITA;-;-;-;2,5;-;2,5;15,087
+100 ;ACF Fiorentina;ITA;11;-;-;-;-;11;15,087
+101 ;US Sassuolo Calcio;ITA;4;-;-;-;-;4;15,087
+102 ;FC Zorya Luhansk;UKR;2;4;2,5;2,5;4;15;6,62
+103 ;VfL Wolfsburg;GER;-;-;-;12;2,5;14,5;14,714
+104 ;Hertha BSC Berlin;GER;1;4;-;-;-;5;14,714
+105 ;1. FC Köln;GER;-;4;-;-;-;4;14,714
+106 ;SC Freiburg;GER;-;1;-;-;-;1;14,714
+107 ;1. FSV Mainz 05;GER;7;-;-;-;-;7;14,714
+108 ;FC Sheriff Tiraspol;MDA;1;7;2,5;2;2;14,5;1,375
+109 ;LOSC Lille;FRA;1;-;-;5;8;14;11,216
+110 ;Rosenborg BK;NOR;1,5;4;3;3;2,5;14;4,2
+111 ;FC Rostov;RUS;12;-;-;-;2;14;7,676
+112 ;NK Maribor;SVN;1,5;7;2;2,5;1;14;2,85
+113 ;FC Midtjylland;DEN;1,5;1,5;2,5;2;6;13,5;5,575
+114 ;Ferencvárosi TC;HUN;1;0,5;1;6;5;13,5;3,1
+115 ;HNK Rijeka;CRO;1;5;2;2,5;3;13,5;5,255
+116 ;Apollon Limassol FC;CYP;1;3;5;2,5;2;13,5;5,55
+117 ;OGC Nice;FRA;4;6;-;-;3;13;11,216
+118 ;AS Saint-Étienne;FRA;9;-;-;4;-;13;11,216
+119 ;FC Zürich;SUI;5;-;7;-;-;12;5,245
+120 ;Fehérvár FC;HUN;1;1,5;5;1,5;2,5;11,5;3,1
+121 ;Stade de Reims;FRA;-;-;-;-;2;2;11,216
+122 ;Racing Club de Strasbourg Alsace;FRA;-;-;-;2,5;-;2,5;11,216
+123 ;FC Girondins de Bordeaux;FRA;-;1;5;-;-;6;11,216
+124 ;Wolfsberger AC;AUT;-;-;-;4;7;11;7,165
+125 ;Royal Antwerp FC;BEL;-;-;-;2,5;8;10,5;7,3
+126 ;Dundalk FC;IRL;3;1;1,5;2;3;10,5;1,575
+127 ;FK Austria Wien;AUT;4;4;-;2;-;10;7,165
+128 ;Östersunds FK;SWE;-;10;-;-;-;10;4,1
+129 ;Rio Ave FC;POR;1;-;1,5;-;2,5;5;9,709
+130 ;Vitória SC;POR;-;4;-;4;-;8;9,709
+131 ;CS Marítimo;POR;-;1,5;-;-;-;1,5;9,709
+132 ;FC Arouca;POR;1,5;-;-;-;-;1,5;9,709
+133 ;KF Shkëndija;MKD;1,5;1,5;2,5;1,5;2;9;1,525
+134 ;FC Lugano;SUI;-;6;-;3;-;9;5,245
+135 ;AEK Larnaca FC;CYP;1,5;1,5;4;2;-;9;5,55
+136 ;FK Sūduva;LTU;0,25;1,5;2,5;2,5;2;8,75;1,75
+137 ;FC Slovan Liberec;CZE;3;-;-;-;5;8;5,32
+138 ;PFC CSKA-Sofia;BUL;-;-;2;2;4;8;4,075
+139 ;HŠK Zrinjski;BIH;1;1;2;2;2;8;1,6
+140 ;HNK Hajduk Split;CRO;1,5;1,5;2;1;2;8;5,255
+141 ;F91 Diddeleng;LUX;1;1;3;3;-;8;1,65
+142 ;FC Astra Giurgiu;ROU;7;1;-;-;-;8;3,64
+143 ;Osmanlıspor;TUR;8;-;-;-;-;8;6,02
+144 ;Willem II;NED;-;-;-;-;2;2;7,84
+145 ;FC Utrecht;NED;-;1,5;-;1,5;-;3;7,84
+146 ;Vitesse;NED;-;4;2;-;-;6;7,84
+147 ;Heracles Almelo;NED;1;-;-;-;-;1;7,84
+148 ;FC Dynamo Moscow;RUS;-;-;-;-;1,5;1,5;7,676
+149 ;FC Arsenal Tula;RUS;-;-;-;1,5;-;1,5;7,676
+150 ;FC Ufa;RUS;-;-;2,5;-;-;2,5;7,676
+151 ;Aberdeen FC;SCO;1;1;1,5;2;2;7,5;6,675
+152 ;ŠK Slovan Bratislava;SVK;0,5;0,5;2;3;1,5;7,5;2,725
+153 ;The New Saints FC;WAL;1;1;2;2;1,5;7,5;1
+154 ;FC Spartak Trnava;SVK;1;-;5;1,5;-;7,5;2,725
+155 ;R. Charleroi SC;BEL;-;-;-;-;2,5;2,5;7,3
+156 ;SV Zulte Waregem;BEL;-;5;-;-;-;5;7,3
+157 ;KV Oostende;BEL;-;1;-;-;-;1;7,3
+158 ;TSV Hartberg;AUT;-;-;-;-;1,5;1,5;7,165
+159 ;SK Sturm Graz;AUT;-;1;2;1,5;-;4,5;7,165
+160 ;FC Admira Wacker Mödling;AUT;1;-;1,5;-;-;2,5;7,165
+161 ;SCR Altach;AUT;-;1,5;-;-;-;1,5;7,165
+162 ;FK Jablonec;CZE;-;-;4;1,5;1,5;7;5,32
+163 ;Brøndby IF;DEN;1,5;1;2,5;2;-;7;5,575
+164 ;Konyaspor;TUR;2;5;-;-;-;7;6,02
+165 ;NK Olimpija Ljubljana;SVN;1;0,25;2,5;1,5;1,5;6,75;2,85
+166 ;Motherwell FC;SCO;-;-;-;-;2;2;6,675
+167 ;Kilmarnock FC;SCO;-;-;-;1;-;1;6,675
+168 ;Hibernian FC;SCO;0,5;-;2;-;-;2,5;6,675
+169 ;St Johnstone FC;SCO;-;0,25;-;-;-;0,25;6,675
+170 ;Heart of Midlothian FC;SCO;0,5;-;-;-;-;0,5;6,675
+171 ;FC Desna Chernihiv;UKR;-;-;-;-;2;2;6,62
+171 ;Kolos Kovalivka;UKR;-;-;-;-;2;2;6,62
+173 ;FC Olexandriya;UKR;1;1,5;-;3;-;5,5;6,62
+174 ;FC Mariupol;UKR;-;-;2;2;-;4;6,62
+175 ;FC Vorskla Poltava;UKR;1;-;3;-;-;4;6,62
+176 ;FC Olimpik Donetsk;UKR;-;1;-;-;-;1;6,62
+177 ;FC Dinamo Tbilisi;GEO;1,5;-;1;2;2;6,5;1,375
+178 ;FK Žalgiris Vilnius;LTU;1;1;2;1;1,5;6,5;1,75
+179 ;Alashkert FC;ARM;1;1;2;1,5;1;6,5;1,475
+180 ;FK Sarajevo;BIH;-;0,25;1,5;2;2,5;6,25;1,6
+181 ;FC Flora Tallinn;EST;0,5;0,25;1,5;1,5;2,5;6,25;0,95
+182 ;Sivasspor;TUR;-;-;-;-;4;4;6,02
+183 ;Alanyaspor;TUR;-;-;-;-;2;2;6,02
+184 ;Trabzonspor AŞ;TUR;-;-;-;3;-;3;6,02
+185 ;Yeni Malatyaspor;TUR;-;-;-;2;-;2;6,02
+186 ;Akhisar Belediyespor;TUR;-;-;3;-;-;3;6,02
+187 ;KKS Lech Poznań;POL;-;1;2;-;3;6;3,025
+188 ;FK Budućnost Podgorica;MNE;0,5;1;1;1,5;2;6;1
+189 ;FC Kairat Almaty;KAZ;0,5;0,5;2;1,5;1,5;6;3,125
+190 ;NK Osijek;CRO;-;1,5;1,5;1,5;1,5;6;5,255
+191 ;FK Kukësi;ALB;0,5;1;2;1;1,5;6;1,45
+192 ;Universitatea Craiova;ROU;-;1;2;2;1;6;3,64
+193 ;Valletta FC;MLT;1;0,5;1,5;2;1;6;1,275
+194 ;FC Dinamo Minsk;BLR;1;1;2;1;1;6;3,05
+195 ;AIK;SWE;1;1;1,5;2,5;-;6;4,1
+196 ;FK Ventspils;LVA;0,5;0,25;1,5;2;1,5;5,75;1,475
+197 ;Lincoln Red Imps FC;GIB;1;0,25;1,5;1,5;1,5;5,75;1,133
+198 ;SønderjyskE;DEN;1,5;-;-;-;2;3,5;5,575
+199 ;AGF Aarhus;DEN;-;-;-;-;1,5;1,5;5,575
+200 ;Esbjerg fB;DEN;-;-;-;1,5;-;1,5;5,575
+201 ;FC Nordsjælland;DEN;-;-;2;-;-;2;5,575
+202 ;Lyngby BK;DEN;-;1;-;-;-;1;5,575
+203 ;Omonoia FC;CYP;0,5;-;-;-;3;3,5;5,55
+204 ;Anorthosis Famagusta FC;CYP;-;-;1;-;2;3;5,55
+205 ;AEL Limassol FC;CYP;-;1;-;1,5;-;2,5;5,55
+206 ;Riga FC;LVA;-;-;1;2,5;2;5,5;1,475
+207 ;FC Progrès Niederkorn;LUX;-;0,5;2;1,5;1,5;5,5;1,65
+208 ;Budapest Honvéd FC;HUN;-;1;1,5;1,5;1,5;5,5;3,1
+209 ;FC Vaduz;LIE;0,5;0,5;1,5;2;1;5,5;1,8
+210 ;Nõmme Kalju FC;EST;1;0,5;1;2;1;5,5;0,95
+211 ;FC Luzern;SUI;1;0,5;2;2;-;5,5;5,245
+211 ;HJK Helsinki;FIN;1;0,5;2;2;-;5,5;1,375
+211 ;NK Domžale;SVN;1;1,5;1,5;1,5;-;5,5;2,85
+211 ;FC Viitorul;ROU;1;1,5;1,5;1,5;-;5,5;3,64
+215 ;Gabala SC;AZE;2;1;1;1,5;-;5,5;3,375
+216 ;FK Vojvodina;SRB;1,5;0,25;-;-;2;3,75;5,35
+217 ;Backa Topola;SRB;-;-;-;-;1,5;1,5;5,35
+218 ;FK Čukarički;SRB;0,5;-;-;1,5;-;2;5,35
+219 ;FK Radnicki Niš;SRB;-;-;1,5;1;-;2,5;5,35
+220 ;FK Spartak Subotica;SRB;-;-;2;-;-;2;5,35
+221 ;FK Mladost Lučani;SRB;-;0,25;-;-;-;0,25;5,35
+222 ;FK Mladá Boleslav;CZE;1;1;-;2;-;4;5,32
+223 ;SK Sigma Olomouc;CZE;-;-;2,5;-;-;2,5;5,32
+224 ;FC Zlín;CZE;-;2;-;-;-;2;5,32
+225 ;NK Lokomotiva Zagreb;CRO;1,5;-;-;-;2;3,5;5,255
+226 ;KÍ Klaksvík;FRO;-;0,25;1;1,5;2,5;5,25;1,225
+227 ;B36 Tórshavn;FRO;0,5;0,25;1,5;1;2;5,25;1,225
+228 ;Linfield FC;NIR;0,25;1;-;2,5;1,5;5,25;1,391
+229 ;CS Fola Esch;LUX;0,25;1;1,5;1;1,5;5,25;1,65
+229 ;FK Riteriai;LTU;0,25;1;1,5;1;1,5;5,25;1,75
+231 ;FC Shakhtyor Soligorsk;BLR;0,5;0,25;1,5;2;1;5,25;3,05
+232 ;FC St. Gallen;SUI;-;-;1,5;-;2;3,5;5,245
+233 ;Servette FC;SUI;-;-;-;-;1,5;1,5;5,245
+234 ;FC Thun;SUI;-;-;-;2;-;2;5,245
+235 ;FC Sion;SUI;-;1;-;-;-;1;5,245
+236 ;Grasshopper Club Zürich;SUI;1,5;-;-;-;-;1,5;5,245
+237 ;Aris Thessaloniki FC;GRE;-;-;-;2;1,5;3,5;5,2
+238 ;OFI Crete FC;GRE;-;-;-;-;1,5;1,5;5,2
+239 ;Atromitos FC;GRE;-;-;1,5;2;-;3,5;5,2
+240 ;Asteras Tripolis FC;GRE;-;-;1,5;-;-;1,5;5,2
+241 ;Panathinaikos FC;GRE;2;1,5;-;-;-;3,5;5,2
+242 ;Panionios GSS;GRE;-;1;-;-;-;1;5,2
+243 ;PAS Giannina FC;GRE;1;-;-;-;-;1;5,2
+244 ;Ararat-Armenia FC;ARM;-;-;-;2,5;2,5;5;1,475
+245 ;KuPS Kuopio;FIN;-;-;1;1,5;2,5;5;1,375
+246 ;FC Dinamo Brest;BLR;-;0,5;2;-;2,5;5;3,05
+247 ;FC DAC 1904 Dunajská Streda;SVK;-;-;1,5;1,5;2;5;2,725
+248 ;Neftçi PFK;AZE;0,5;-;1;2;1,5;5;3,375
+249 ;FH Hafnarfjördur;ISL;1;1,5;1,5;-;1;5;0,975
+250 ;Maccabi Haifa FC;ISR;0,5;-;-;1,5;2,5;4,5;4,875
+251 ;Beitar Jerusalem FC;ISR;1,5;0,5;1;-;1;4;4,875
+252 ;Bnei Yehuda Tel-Aviv FC;ISR;-;1;-;2,5;-;3,5;4,875
+253 ;Hapoel Haifa FC;ISR;-;-;2;-;-;2;4,875
+254 ;Shamrock Rovers FC;IRL;0,25;0,5;1;1,5;1,5;4,75;1,575
+255 ;Connah's Quay Nomads FC;WAL;0,5;0,25;1;1,5;1,5;4,75;1
+256 ;FK Sutjeska;MNE;-;0,25;1,5;2;1;4,75;1
+257 ;FC Santa Coloma;AND;0,5;0,5;1,5;1,5;0,5;4,5;0,666
+258 ;FC Pyunik;ARM;0,25;0,25;2;2;-;4,5;1,475
+259 ;Cork City FC;IRL;1;0,5;2;1;-;4,5;1,575
+260 ;AS Trenčín;SVK;1,5;0,5;2,5;-;-;4,5;2,725
+261 ;Valur;ISL;0,25;0,5;2;1,5;-;4,25;0,975
+262 ;Crusaders FC;NIR;1;0,25;1,5;1,5;-;4,25;1,391
+263 ;FK Partizani;ALB;1,5;0,25;1;1,5;-;4,25;1,45
+264 ;FK Bodø/Glimt;NOR;-;-;-;-;2;2;4,2
+265 ;Viking FK;NOR;-;-;-;-;1,5;1,5;4,2
+266 ;FK Haugesund;NOR;-;0,5;-;2;-;2,5;4,2
+267 ;SK Brann;NOR;-;0,5;-;1;-;1,5;4,2
+268 ;Sarpsborg 08 FF;NOR;-;-;4;-;-;4;4,2
+269 ;Lillestrøm SK;NOR;-;-;1,5;-;-;1,5;4,2
+270 ;Odds BK;NOR;0,5;1;-;-;-;1,5;4,2
+271 ;Strømsgodset IF;NOR;0,5;-;-;-;-;0,5;4,2
+272 ;Stabæk Fotball;NOR;0,25;-;-;-;-;0,25;4,2
+273 ;Djurgårdens IF;SWE;-;-;1,5;-;2;3,5;4,1
+274 ;IFK Göteborg;SWE;1,5;-;-;-;1,5;3;4,1
+275 ;Hammarby Fotboll;SWE;-;-;-;-;1,5;1,5;4,1
+276 ;IFK Norrköping FK;SWE;1;0,5;-;2;-;3,5;4,1
+277 ;BK Häcken;SWE;0,5;-;1,5;1,5;-;3,5;4,1
+278 ;PFC Lokomotiv Plovdiv 1926;BUL;-;-;-;2;1,5;3,5;4,075
+279 ;PFC Slavia Sofia;BUL;0,25;-;1,5;-;1;2,75;4,075
+280 ;PFC Levski Sofia;BUL;0,5;0,5;1;1,5;-;3,5;4,075
+281 ;PFC Botev Plovdiv;BUL;-;1;-;-;-;1;4,075
+282 ;FC Dunav Ruse;BUL;-;0,25;-;-;-;0,25;4,075
+283 ;PFC Beroe Stara Zagora;BUL;0,5;-;-;-;-;0,5;4,075
+284 ;Piast Gliwice;POL;0,5;-;-;1,5;2;4;3,025
+285 ;KF Laçi;ALB;-;-;1,5;1;1,5;4;1,45
+286 ;Europa FC;GIB;0,5;0,5;0,5;1;1,5;4;1,133
+287 ;FK Liepāja;LVA;1;0,5;1;1,5;-;4;1,475
+288 ;FK Vardar;MKD;1;2;1;-;-;4;1,525
+289 ;KF Skënderbeu;ALB;-;4;-;-;-;4;1,45
+290 ;Hibernians FC;MLT;0,25;1;-;1;1,5;3,75;1,275
+291 ;FC Levadia Tallinn;EST;0,5;0,25;1;1;1;3,75;0,95
+292 ;FC Torpedo Kutaisi;GEO;-;0,25;2,5;1;-;3,75;1,375
+293 ;FC Botoşani;ROU;-;-;-;-;1,5;1,5;3,64
+294 ;FC Dinamo Bucureşti;ROU;-;1;-;-;-;1;3,64
+295 ;CS Pandurii Târgu Jiu;ROU;1;-;-;-;-;1;3,64
+296 ;CSMS laşi;ROU;0,5;-;-;-;-;0,5;3,64
+297 ;FC Drita;KOS;-;-;1,5;-;2;3,5;1,166
+298 ;KR Reykjavík;ISL;0,5;0,5;-;1;1,5;3,5;0,975
+299 ;FC Chikhura Sachkhere;GEO;0,25;0,25;1,5;1,5;-;3,5;1,375
+300 ;OFK Titograd;MNE;1;0,5;1;1;-;3,5;1
+301 ;Keşla FK;AZE;-;0,5;1;-;1;2,5;3,375
+302 ;Sumqayıt FK;AZE;-;-;-;-;1;1;3,375
+303 ;Sabail;AZE;-;-;-;1;-;1;3,375
+304 ;Zirä FK;AZE;-;0,5;-;-;-;0,5;3,375
+305 ;Käpäz PFK;AZE;0,5;-;-;-;-;0,5;3,375
+306 ;La Fiorita 1967;SMR;0,25;0,5;1,5;0,5;0,5;3,25;0,233
+307 ;Stjarnan;ISL;-;0,25;1,5;1,5;-;3,25;0,975
+308 ;FK Spartaks Jūrmala;LVA;0,25;1;2;-;-;3,25;1,475
+309 ;FC Kaysar Kyzylorda;KAZ;-;-;-;-;1,5;1,5;3,125
+310 ;FC Ordabasy Shymkent;KAZ;0,25;0,25;-;1,5;1;3;3,125
+311 ;FC Tobol Kostanay;KAZ;-;-;1,5;1;-;2,5;3,125
+312 ;FC Irtysh Pavlodar;KAZ;-;0,5;1;-;-;1,5;3,125
+313 ;FC Aktobe;KAZ;0,25;-;-;-;-;0,25;3,125
+314 ;Puskás Akadémia FC;HUN;-;-;-;-;1;1;3,1
+315 ;Debreceni VSC;HUN;0,5;-;-;1,5;-;2;3,1
+316 ;Újpest FC;HUN;-;-;1,5;-;-;1,5;3,1
+317 ;Vasas FC;HUN;-;0,25;-;-;-;0,25;3,1
+318 ;MTK Budapest;HUN;0,5;-;-;-;-;0,5;3,1
+319 ;FC Vitebsk;BLR;-;-;-;1;-;1;3,05
+320 ;FC Torpedo Zhodino;BLR;1;-;-;-;-;1;3,05
+321 ;MKS Cracovia Kraków;POL;0,25;-;-;1;1;2,25;3,025
+322 ;KS Lechia Gdańsk;POL;-;-;-;1,5;-;1,5;3,025
+323 ;Jagiellonia Białystok;POL;-;0,5;2;-;-;2,5;3,025
+324 ;Górnik Zabrze;POL;-;-;1,5;-;-;1,5;3,025
+325 ;Arka Gdynia;POL;-;1;-;-;-;1;3,025
+326 ;Zagłębie Lubin;POL;1;-;-;-;-;1;3,025
+327 ;NS Mura;SVN;-;-;-;1;2;3;2,85
+328 ;SP Tre Fiori;SMR;-;-;1;0,5;1,5;3;0,233
+329 ;FC Saburtalo;GEO;-;-;-;2;1;3;1,375
+330 ;Petrocub-Hincesti;MDA;-;-;1;1;1;3;1,375
+330 ;FC Shkupi 1927;MKD;-;-;1;1;1;3;1,525
+332 ;MFK Ružomberok;SVK;-;1;-;1;1;3;2,725
+333 ;NSÍ Runavík;FRO;0,25;0,25;1;0,5;1;3;1,225
+334 ;FK Željezničar;BIH;-;0,5;1,5;-;1;3;1,6
+335 ;Balzan FC;MLT;0,25;0,25;1,5;1;-;3;1,275
+336 ;NK Celje;SVN;-;-;-;-;2;2;2,85
+337 ;NK Rudar Velenje;SVN;-;-;1,5;-;-;1,5;2,85
+338 ;ND Gorica;SVN;0,25;0,5;-;-;-;0,75;2,85
+339 ;KF Tirana;ALB;-;0,25;-;-;2,5;2,75;1,45
+340 ;KF Teuta;ALB;0,25;-;-;1;1,5;2,75;1,45
+341 ;Coleraine FC;NIR;-;0,25;1;-;1,5;2,75;1,391
+342 ;SP Tre Penne;SMR;0,5;0,25;-;1,5;0,5;2,75;0,233
+343 ;NK Široki Brijeg;BIH;0,25;0,5;1;1;-;2,75;1,6
+344 ;Víkingur;FRO;0,25;1;1,5;-;-;2,75;1,225
+345 ;MŠK Žilina;SVK;-;1;-;-;1;2;2,725
+346 ;TJ Spartak Myjava;SVK;0,25;-;-;-;-;0,25;2,725
+347 ;Bala Town FC;WAL;0,25;0,25;0,5;-;1,5;2,5;1
+348 ;UE Engordany;AND;-;-;1;1;0,5;2,5;0,666
+349 ;Gżira United FC;MLT;-;-;1;1,5;-;2,5;1,275
+350 ;Cliftonville FC;NIR;0,5;-;1;1;-;2,5;1,391
+351 ;Floriana FC;MLT;-;0,25;-;-;2;2,25;1,275
+352 ;FK Zeta;MNE;-;0,25;-;1;1;2,25;1
+353 ;Breidablik;ISL;0,25;-;-;1;1;2,25;0,975
+354 ;Derry City FC;IRL;-;0,25;1;-;1;2,25;1,575
+355 ;HB Tórshavn;FRO;0,25;-;-;1,5;0,5;2,25;1,225
+356 ;St Joseph's FC;GIB;-;0,25;0,5;1;0,5;2,25;1,133
+357 ;FC Prishtina;KOS;-;0,25;1;0,5;0,5;2,25;1,166
+358 ;FC Milsami Orhei;MDA;-;0,25;1;1;-;2,25;1,375
+359 ;FC Urartu;ARM;0,25;-;1;1;-;2,25;1,475
+360 ;FC Samtredia;GEO;0,25;1;1;-;-;2,25;1,375
+361 ;FC Locomotive Tbilisi;GEO;-;-;-;-;2;2;1,375
+362 ;FC Inter Turku;FIN;-;-;-;1;1;2;1,375
+362 ;FK Kauno Žalgiris;LTU;-;-;-;1;1;2;1,75
+362 ;RFS;LVA;-;-;-;1;1;2;1,475
+365 ;Ilves Tampere;FIN;-;-;1;-;1;2;1,375
+366 ;JK Narva Trans;EST;-;-;1;1;-;2;0,95
+367 ;FK Sileks;MKD;0,25;-;-;-;1,5;1,75;1,525
+368 ;FC Shirak;ARM;0,5;0,25;-;-;1;1,75;1,475
+369 ;AS Jeunesse Esch;LUX;0,25;-;-;1,5;-;1,75;1,65
+370 ;FC Zaria Balti;MDA;0,25;0,5;1;-;-;1,75;1,375
+370 ;FK Rabotnicki;MKD;0,25;0,5;1;-;-;1,75;1,525
+372 ;FC Stumbras;LTU;-;-;1;-;-;1;1,75
+373 ;FK Atlantas;LTU;0,25;0,25;-;-;-;0,5;1,75
+374 ;FC Differdange 03;LUX;0,25;0,25;-;-;1;1,5;1,65
+375 ;Union Titus Petange;LUX;-;-;-;-;1;1;1,65
+376 ;Racing FC Union Luxembourg;LUX;-;-;1;-;-;1;1,65
+377 ;FK Borac Banja Luka;BIH;-;-;-;-;1,5;1,5;1,6
+378 ;FK Radnik Bijeljina;BIH;0,25;-;-;1;-;1,25;1,6
+379 ;FK Sloboda Tuzla;BIH;0,25;-;-;-;-;0,25;1,6
+380 ;Bohemian FC;IRL;-;-;-;-;1;1;1,575
+381 ;Saint Patrick's Athletic FC;IRL;0,5;-;-;1;-;1,5;1,575
+382 ;KF Renova;MKD;-;-;-;-;1,5;1,5;1,525
+383 ;FK Makedonija GP Skopje;MKD;-;-;-;1;-;1;1,525
+383 ;Akademija Pandev;MKD;-;-;-;1;-;1;1,525
+385 ;FK Pelister;MKD;-;0,25;-;-;-;0,25;1,525
+386 ;FC Sfintul Gheorghe;MDA;-;-;-;-;1,5;1,5;1,375
+386 ;Inter Club d'Escaldes;AND;-;-;-;-;1,5;1,5;0,666
+388 ;KF Feronikeli;KOS;-;-;-;1,5;-;1,5;1,166
+389 ;RoPS Rovaniemi;FIN;0,5;-;-;1;-;1,5;1,375
+390 ;Birkirkara FC;MLT;1;-;0,5;-;-;1,5;1,275
+391 ;FC Noah;ARM;-;-;-;-;1;1;1,475
+391 ;FK Valmiera;LVA;-;-;-;-;1;1;1,475
+393 ;FC Gandzasar;ARM;-;0,25;1;-;-;1,25;1,475
+394 ;FK Jelgava;LVA;1;0,25;-;-;-;1,25;1,475
+395 ;KS Luftëtari;ALB;-;-;1;-;-;1;1,45
+396 ;Glentoran FC;NIR;-;-;-;-;1;1;1,391
+397 ;Ballymena United FC;NIR;-;0,25;-;1;-;1,25;1,391
+398 ;Glenavon FC;NIR;0,25;-;1;-;-;1,25;1,391
+399 ;FC Dinamo Batumi;GEO;-;0,25;-;-;1;1,25;1,375
+400 ;FC Dinamo-Auto Tiraspol;MDA;-;-;-;-;1;1;1,375
+400 ;FC Honka Espoo;FIN;-;-;-;-;1;1;1,375
+402 ;FC Speranța Nisporeni;MDA;-;-;-;1;-;1;1,375
+403 ;FC Lahti;FIN;-;-;1;-;-;1;1,375
+404 ;IFK Mariehamn;FIN;0,25;1;-;-;-;1,25;1,375
+405 ;VPS Vaasa;FIN;-;0,5;-;-;-;0,5;1,375
+406 ;SJK Seinäjoki;FIN;1;0,25;-;-;-;1,25;1,375
+407 ;FC Dacia Chisinau;MDA;0,25;0,25;-;-;-;0,5;1,375
+408 ;FC Zimbru Chisinau;MDA;0,5;-;-;-;-;0,5;1,375
+409 ;FC Dila Gori;GEO;0,25;-;-;-;-;0,25;1,375
+410 ;FC Sirens;MLT;-;-;-;-;1;1;1,275
+411 ;UE Sant Julià;AND;-;0,25;0,5;0,5;-;1,25;0,666
+412 ;FK Rudar Pljevlja;MNE;0,25;-;1;-;-;1,25;1
+413 ;KF Gjilani;KOS;-;-;-;-;1;1;1,166
+414 ;KF Trepça’89;KOS;-;0,5;-;-;-;0,5;1,166
+415 ;Víkingur Reykjavík;ISL;-;-;-;-;1;1;0,975
+415 ;Paide Linnameeskond;EST;-;-;-;-;1;1;0,95
+415 ;FK Iskra;MNE;-;-;-;-;1;1;1
+418 ;Barry Town AFC;WAL;-;-;-;0,5;0,5;1;1
+419 ;Cardiff Metropolitan University FC;WAL;-;-;-;0,5;-;0,5;1
+420 ;ÍBV Vestmannaeyjar;ISL;-;-;1;-;-;1;0,975
+421 ;SS Folgore;SMR;0,25;0,25;0,5;-;-;1;0,233
+422 ;Cefn Druids AFC;WAL;-;-;0,5;-;-;0,5;1
+423 ;Bangor City FC;WAL;-;0,25;-;-;-;0,25;1
+424 ;Llandudno FC;WAL;0,25;-;-;-;-;0,25;1
+424 ;FK Bokelj;MNE;0,25;-;-;-;-;0,25;1
+426 ;FCI Tallinn;EST;0,25;0,5;-;-;-;0,75;0,95
+427 ;UE Santa Coloma;AND;0,25;0,25;-;-;-;0,5;0,666
+428 ;FC Lusitans;AND;0,25;-;-;-;-;0,25;0,666
